@@ -1,4 +1,4 @@
-# Employee Management Backend (Spring Boot)
+# Employee Management Backend
 
 
 ## Tech Stack
