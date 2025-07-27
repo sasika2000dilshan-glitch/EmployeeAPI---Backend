@@ -4,7 +4,6 @@
 ## Tech Stack
 
 - **Framework**: Spring Boot
-- **Language**: Java 17
 - **Build Tool**: Maven
 - **Database**: MSSQL + MySQL
 - **ORM**: Spring Data JPA
